@@ -121,8 +121,8 @@ nav {
 
 .big-circle {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 0px;
+  right: 0px;
   z-index: -1;
   opacity: 0.5;
   height: 80%;
